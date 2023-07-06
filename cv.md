@@ -113,4 +113,4 @@ public List<object> ReadDatabase(string filePath)
 The level of English is B1. I speak English well enough to read documentation, communicate and learn new technologies.
 
 ## Photo
-![photo](/img/me.jpg "Моё фото")
+![my photo](./img/me.jpg)
