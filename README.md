@@ -1,2 +1,2 @@
 # CurriculumVitae
-# ИЭФ Пир-212 Стукальский Сергей
+https://RomaneeConti400.github.io/CurriculumVitae/cv
