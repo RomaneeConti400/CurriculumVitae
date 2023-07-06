@@ -100,5 +100,17 @@ public List<object> ReadDatabase(string filePath)
        }  
 ```
 
+## Work experience and training projects
+
+### Project: ObiumProject
+- Link to [project](https://obiumproject.github.io/index.html)
+- Skills used: The basics of graphic design, HTML, CSS, JavaScript, Bootstrap
+### Order: A virtual tour of the polling station 
+- [Screenshot](/img/gp.png)
+- Skills used: The basics of graphic design, 3D modeling basics, UE4, Blender.
+
 ## English
 The level of English is B1. I speak English well enough to read documentation, communicate and learn new technologies.
+
+## Photo
+![photo](/img/me.jpg "Моё фото")
